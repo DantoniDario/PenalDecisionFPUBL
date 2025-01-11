@@ -1,2 +1,2 @@
 # PenalDecisionFPUBL
-Webscrapping to extract all penal decision from the state website
+Webscrapping to extract all penal decisions from the state website
